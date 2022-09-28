@@ -1,8 +1,8 @@
 # crash10x
 
-generated using Luminus version "4.39"
+This is a minimal repro of [this re-frame-10x bug](https://github.com/day8/re-frame-10x/issues/376).
 
-FIXME
+generated using Luminus version "4.39"
 
 ## Prerequisites
 
